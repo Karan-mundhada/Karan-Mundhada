@@ -1,8 +1,8 @@
-### Hi there 👋
-## Hi, I'm Karan 👋
-# Welcome to my GitHub repository! Here you'll find a collection of projects that showcase my passion for React development, Machine Learning, and a keen interest in Blockchain technology. As a versatile developer, I'm well-versed in both C++ and Python, and I'm excited to share my journey of exploration and innovation with you.
+# Hi there 👋
+# Hi, I'm Karan 👋
+### Welcome to my GitHub repository! Here you'll find a collection of projects that showcase my passion for React development, Machine Learning, and a keen interest in Blockchain technology. As a versatile developer, I'm well-versed in both C++ and Python, and I'm excited to share my journey of exploration and innovation with you.
 
-## 🚀 What You'll Find Here
+# 🚀 What You'll Find Here
 React Brilliance: I've crafted engaging and responsive web applications using React. My projects demonstrate my dedication to creating user-friendly interfaces and seamless user experiences.
 
 # 🔧 Tools of the Trade
