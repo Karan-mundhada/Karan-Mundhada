@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Karan Mundhada</h1>
 <h3 align="center">Tech geek with a passion for turning complex code into simple solutions. I’m all about exploring AI, debugging like a ninja, and building systems that don’t just work—they thrive!</h3>
 
-- 🌱 I’m currently learning **ML by Andrew NG**
+- 🌱 I’m currently working at **Rockwell Automation**
 
 - 👨‍💻 All of my projects are available at [https://karanmundhada.vercel.app/](https://karanmundhada.vercel.app/) or just go to the repository section idk (⌐■_■)
 
-- 💬 Ask me about **react, python, DSA**
+- 💬 Ask me about **Python, DSA, React, SQL**
 
-- 📫 Reach me at **karanmundhada@gmail.com**
+- 📫 Reach me at **karanmundhada@engineer.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
